@@ -1,2 +1,6 @@
 ## Currently working on it
-![image](https://drive.google.com/uc?export=view&id=1AZ1jrFbzfNkWYKl0jLK61BiFSKMw_hpZ)
+
+## Infrastructure Diagram
+
+- **AWS Infras**
+![image](https://drive.google.com/uc?export=view&id=1yr4RdDdV4poTInORHnvDV_zVhdnt4qQf)
